@@ -1,0 +1,52 @@
+table{
+    border: 1px solid black;
+    margin-top: 0.5rem;
+    background-color: rgb(200, 253, 253);
+}
+
+th{
+    border: 1px solid;
+    padding: 1rem;
+    min-width:10rem;
+    max-width: 10rem;
+    background-color: rgb(212, 212, 212);
+    
+}
+
+#botao{
+    cursor: pointer ;
+    height: 1.9rem;
+    border-radius: 5px;
+    background-color: lightgray;
+    width: 6rem;
+    transition: 0.2s;
+}
+
+#botao:hover {
+    background-color: gray;
+}
+
+#nome{
+    border-radius: 5px;
+    background-color: transparent;
+    height: 1.5rem;
+    width: 16rem;
+    color: black;
+}
+
+#nota1 {
+    border-radius: 5px;
+    background-color: transparent;
+    margin-left: 10px;
+    height: 1.5rem;
+    width: 2rem;
+}
+
+#nota2 {
+    border-radius: 5px;
+    background-color: transparent;
+    margin-left: 10px;
+    height: 1.5rem;
+    width: 2rem;
+}
+
